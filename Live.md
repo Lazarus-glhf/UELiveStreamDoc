@@ -17,9 +17,11 @@
 - Vroid Studio  
 <https://vroid.com/en/studio>
 
+---
+
 ## 需要的插件
 
-1. 虚幻引擎部分
+1. 虚幻引擎部分  
     - **VRM4U**  
     <https://github.com/ruyo/VRM4U>
 
@@ -30,7 +32,7 @@
     <https://github.com/HAL9HARUKU/ueOSC>
 
     - **VMC4UE**  
-    <https://github.com/HAL9HARUKU/VMC4UE>
+    <https://github.com/HAL9HARUKU/VMC4UE>  
 
 2. Unity 部分  
     - **UniVRM**  
@@ -41,7 +43,11 @@
 
 3. OBS 部分
     - **Spout**  
-    <https://offworld.live/download-center>
+    <https://offworld.live/download-center>  
+  
+---  
+
+<br>  
 
 ## 流程  
 
@@ -54,3 +60,5 @@
 4. 配置 OBS 与 UE，实现推流  
 
 5. 优化效果  
+
+---  
